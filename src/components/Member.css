@@ -1,0 +1,6 @@
+.member {
+    display: inline-block;
+    width: 30%;
+    border: thin solid lightsalmon;
+    padding: 15px;
+}
